@@ -1,0 +1,7 @@
+user1 password1 2 13 11 54 0.240741 0
+user2 password2 1 21 22 34 0.617647 0
+user3 password3 5 1 0 1 1 0
+user4 password4 0 0 0 0 0 0
+user5 password5 0 0 0 0 0 0
+testUser pass 4 5 4 9 0.555556 0
+keonlee 123456789 0 0 0 0 0 0

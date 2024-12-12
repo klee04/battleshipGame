@@ -1,0 +1,7 @@
+To compile and run, run the following commands:
+    make        (build script)
+    .bin/app    (run executable)
+
+Note: Make sure all files in the src folder are included in your IDE's include path
+Note: All paths are relative to the folder "battleship", so the exectuable won't 
+      recognize the resources if you aren't running it from that directory
